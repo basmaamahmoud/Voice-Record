@@ -6,7 +6,7 @@
 
 ## How to run it
 
-- Tap the record button to record your voice, when you finish recording tap the stop button.
+- Tap the record button to record your voice, when you finish recording tap the stop button to go to next scene.
 - The second scene of the app contains the following buttons for audio effects: Snail (slow), Rabbit (fast), Chipmunk (high pitch), Darth Vader (low pitch), Echo and Reverb. All six buttons work properly to play the associated sounds.
 
 ## Images for the App
